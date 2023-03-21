@@ -4,8 +4,8 @@ Proyecto1
 LISTADO DE REQUERIMIENTOS
 Requerimientos Funcionales (Globales y detallados)
 El sistema permitirá:
-- Administrar datos de Cliente (ABMC)&&&&&& Requerimiento Global
-- Registrar Cliente &&&&&&&&&&&&&& Requerimiento detallado
+- Administrar datos de Cliente (ABMC) Requerimiento Global
+- Registrar Cliente  Requerimiento detallado
 - Modificar cliente
 - Registrar baja de cliente
 - Consultar clientes
